@@ -10,7 +10,7 @@ This analysis was performed in order to provide a client with data that they can
 
 - The good news for our client is that the maximum temperature difference between December and June (83.00 and 85.00, respectively) is essentially negligable for eager vacationgoers. The even better news is that the upper quartile for both, representing data of which 75% of the points of the dataset are arranged in increasing order- are reflective of seemingly enjoyable, for most people (temperatures of 74.00 in December, and 77.00 degrees in December).
 
--In terms of attracting business, June temperatures do dip down to 64.00 degrees occasionally, while December, at it's lowest reaches a balmy 56.00 degrees. This weather is arguably still 'vacation weather' for most people who would be traveling to a warmer climate area, like Oahu, for vacation, especially in December. 
+- In terms of attracting business, June temperatures do dip down to 64.00 degrees occasionally, while December, at it's lowest reaches a balmy 56.00 degrees. This weather is arguably still 'vacation weather' for most people who would be traveling to a warmer climate area, like Oahu, for vacation, especially in December. 
 
 
 
